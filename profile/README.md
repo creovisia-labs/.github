@@ -1,6 +1,7 @@
 # Creovisia
 
 Building futuristic AI tools, creative products & digital experiences.
+Founded by MUKIL KARKI M (@mukilkarki)
 
 ## 🚀 Projects
 - VoidSEO AI
